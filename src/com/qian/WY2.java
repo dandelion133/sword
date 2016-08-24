@@ -5,7 +5,7 @@ public class WY2 {
 	
 
 	public static boolean isOk(boolean[][] isPut,int x,int y) {
-		int a = isPut.length;
+		int a = isPut.length;//asdfasdasd
 		int b = isPut[0].length;
 		
 		for (int i = 0; i < a; i++) {
@@ -51,7 +51,7 @@ public class WY2 {
 					
 				}
 			}
-            
+            //Math.abs(asd);
             System.out.println(sum);
         }
     }
