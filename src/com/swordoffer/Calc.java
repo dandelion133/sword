@@ -12,7 +12,7 @@ public class Calc {
 	/**
 	 * 将字符串转化成List
 	 * @param str
-	 * @return
+	 * @return   阿大声道
 	 */
 	public ArrayList<String> getStringList(String str){
 		ArrayList<String> result = new ArrayList<String>();
